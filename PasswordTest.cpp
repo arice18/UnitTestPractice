@@ -20,3 +20,8 @@ TEST(PasswordTest, single_letter_password)
 	int actual = my_password.count_leading_characters("Z");
 	ASSERT_EQ(1, actual);
 }
+
+test2(PasswordTest, two_letter_password)
+{
+	/*havent done anything on my laptop*/
+}
